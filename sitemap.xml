@@ -7,12 +7,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/famous-people-born-on-this-day-%f0%9f%8e%89/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/the-strangest-birthday-superstitions-traditions-around-the-world-%f0%9f%8e%82/
+            http://localhost:8000/famous-people-born-on-this-day-%f0%9f%8e%89-2/
         </loc>
     </url>
     <url>
@@ -52,27 +47,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/feb-12/
+            http://localhost:8000/tag/lincoln/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/tag/abraham-lincon/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/tag/cake/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/tag/china/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/tag/germeny/
+            http://localhost:8000/tag/geb-12/
         </loc>
     </url>
     <url>
