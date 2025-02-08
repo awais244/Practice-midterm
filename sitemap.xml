@@ -12,6 +12,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/the-strangest-birthday-superstitions-traditions-around-the-world-%f0%9f%8e%82/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -47,12 +52,27 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/tag/china/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/tag/lincoln/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/tag/geb-12/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/germany/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/noodles/
         </loc>
     </url>
     <url>
