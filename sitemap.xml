@@ -52,6 +52,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/tag/feb-12/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/abraham-lincon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/cake/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/china/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/germeny/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/awais244/
         </loc>
     </url>
